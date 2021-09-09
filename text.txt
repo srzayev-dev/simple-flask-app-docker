@@ -1,0 +1,9 @@
+export FLASK_APP=main.py
+cd app 
+flask run
+
+
+
+
+
+docker-compose up -d --build
